@@ -1,3 +1,3 @@
 # *What's in this repository?*
 
-Not much to be honest, just a hello world function and some extra comments from a previous branch merger
+A couple of basic files, used for the purpose of learning how to use git
