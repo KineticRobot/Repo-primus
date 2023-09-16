@@ -1,3 +1,3 @@
-# *What's in this repository?*
+# *Hello and welcome!*
 
-A couple of basic files, used for the purpose of learning how to use git
+My name is Matthew Barclay, 
